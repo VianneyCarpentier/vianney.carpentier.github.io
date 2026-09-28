@@ -51,7 +51,7 @@ Ventirad: Thermalright Peerless Assassin 120 SE ARGB
 Pâte thermique: Thermalright TF7
 Tourne-vis cruciforme
 
-##Résultat
+## Résultat
 
 L'ordinateur n'a plus aucune latence et exploite pleinement les performances disponibles, tout en étant futur-proof pour de longue années.
 
